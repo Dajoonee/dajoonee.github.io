@@ -1,0 +1,58 @@
+[
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.otf"
+      }
+    ]
+  },
+  {
+    "family": "packages/cupertino_icons/CupertinoIcons",
+    "fonts": [
+      {
+        "asset": "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+      }
+    ]
+  },
+  {
+    "family": "SanDol",
+    "fonts": [
+      {
+        "asset": "fonts/SDOutline.ttf"
+      }
+    ]
+  },
+  {
+    "family": "UhBee",
+    "fonts": [
+      {
+        "asset": "fonts/UhBeeQUEENJ.ttf"
+      }
+    ]
+  },
+  {
+    "family": "NaNum",
+    "fonts": [
+      {
+        "asset": "fonts/NanumBarunGothic.ttf"
+      }
+    ]
+  },
+  {
+    "family": "SanDolBasic",
+    "fonts": [
+      {
+        "asset": "fonts/SDBasic.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Sonta",
+    "fonts": [
+      {
+        "asset": "home_sonta.png"
+      }
+    ]
+  }
+]
