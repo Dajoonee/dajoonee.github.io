@@ -48,10 +48,10 @@
     ]
   },
   {
-    "family": "Sonta",
+    "family": "CraftingIcons",
     "fonts": [
       {
-        "asset": "home_sonta.png"
+        "asset": "fonts/CraftingIcons.ttf"
       }
     ]
   }
