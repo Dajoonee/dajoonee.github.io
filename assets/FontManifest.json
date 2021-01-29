@@ -54,5 +54,14 @@
         "asset": "fonts/CraftingIcons.ttf"
       }
     ]
+  },
+  {
+    "family": "Mrs",
+    "fonts": [
+      {
+        "asset": "fonts/MrsSaintDelafield-Regular.ttf"
+      }
+    ]
   }
 ]
+
